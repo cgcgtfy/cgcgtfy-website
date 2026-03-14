@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "张逸帆的个人主页",
+    "section": "",
+    "text": "资源与环境专业在读研究生"
+  },
+  {
+    "objectID": "index.html#联系方式",
+    "href": "index.html#联系方式",
+    "title": "张逸帆的个人主页",
+    "section": "📧 联系方式",
+    "text": "📧 联系方式\n邮箱：3192577578@qq.com"
+  },
+  {
+    "objectID": "index.html#技能标签",
+    "href": "index.html#技能标签",
+    "title": "张逸帆的个人主页",
+    "section": "💻 技能标签",
+    "text": "💻 技能标签\n\nR语言 Python Quarto Git"
+  },
+  {
+    "objectID": "index.html#研究学习兴趣",
+    "href": "index.html#研究学习兴趣",
+    "title": "张逸帆的个人主页",
+    "section": "🔬 研究/学习兴趣",
+    "text": "🔬 研究/学习兴趣\n\n\n土壤重金属污染治理"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "学号：2025303120024"
+  },
+  {
+    "objectID": "about.html#个人背景",
+    "href": "about.html#个人背景",
+    "title": "关于我",
+    "section": "",
+    "text": "学号：2025303120024"
+  },
+  {
+    "objectID": "about.html#教育背景",
+    "href": "about.html#教育背景",
+    "title": "关于我",
+    "section": "🎓 教育背景",
+    "text": "🎓 教育背景\n\n\n&lt;h3&gt;研究生&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;华中农业大学&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;资源与环境&lt;/p&gt;\n\n\n&lt;h3&gt;本科&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;湖北大学&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;环境工程&lt;/p&gt;"
+  },
+  {
+    "objectID": "about.html#这个网站是怎么建的",
+    "href": "about.html#这个网站是怎么建的",
+    "title": "关于我",
+    "section": "🌐 这个网站是怎么建的？",
+    "text": "🌐 这个网站是怎么建的？\n这个网站使用 Quarto 构建，Quarto 是一个开源的科学和技术出版系统，支持多种编程语言和输出格式。通过简单的 Markdown 语法和配置文件，就可以创建出专业的个人网站。"
+  }
+]
