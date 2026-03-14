@@ -1,0 +1,27 @@
+---
+title: "张逸帆的个人主页"
+---
+
+<div class="hero-section">
+  <h1 class="hero-title">张逸帆</h1>
+  <p class="hero-subtitle">资源与环境专业在读研究生</p>
+</div>
+
+## 📧 联系方式
+
+邮箱：[3192577578@qq.com](mailto:3192577578@qq.com)
+
+## 💻 技能标签
+
+<div class="skills">
+  <span class="skill-badge">R语言</span>
+  <span class="skill-badge">Python</span>
+  <span class="skill-badge">Quarto</span>
+  <span class="skill-badge">Git</span>
+</div>
+
+## 🔬 研究/学习兴趣
+
+<div class="research-interest">
+  <p>土壤重金属污染治理</p>
+</div>

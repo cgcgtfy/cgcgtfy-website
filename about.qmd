@@ -1,0 +1,27 @@
+---
+title: "关于我"
+---
+
+## 👤 个人背景
+
+**学号**：2025303120024
+
+## 🎓 教育背景
+
+<div class="education">
+  <div class="education-item">
+    <h3>研究生</h3>
+    <p><strong>华中农业大学</strong></p>
+    <p>资源与环境</p>
+  </div>
+  
+  <div class="education-item">
+    <h3>本科</h3>
+    <p><strong>湖北大学</strong></p>
+    <p>环境工程</p>
+  </div>
+</div>
+
+## 🌐 这个网站是怎么建的？
+
+这个网站使用 [Quarto](https://quarto.org/) 构建，Quarto 是一个开源的科学和技术出版系统，支持多种编程语言和输出格式。通过简单的 Markdown 语法和配置文件，就可以创建出专业的个人网站。
